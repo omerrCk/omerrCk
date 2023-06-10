@@ -1,7 +1,7 @@
 
 [![MasterHead](https://64.media.tumblr.com/19d1c00af9a8aee27ec95f7fa748e924/cfb682b8109d92c8-2c/s1280x1920/77a0fa6dcf6e24fad1a2f679f639e89ed68b91ea.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ömer</h1>
-<h3 align="center">A passionate Enginnering student from Turkey</h3>
+<h3 align="center">A passionate Engineering student from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omerrck&label=Profile%20views&color=0e75b6&style=flat" alt="omerrck" /> </p>
 
